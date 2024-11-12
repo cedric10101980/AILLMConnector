@@ -1,0 +1,23 @@
+ContactID,Product Type,Category,Name,Model,Datetime of Purchase,Location,Short Code,Price,Currency,Exact Product Purchased
+ContactID-11,Checking Account,Personal Banking,Classic Checking Account,1234,2024-06-23 10:15:00,New York, NY,0,USD,Classic Checking Account Opening
+ContactID-11,Credit Card,Credit Products,Gold Rewards Credit Card,5678,2024-06-23 11:30:00,New York, NY,0,USD,Gold Rewards Credit Card Application Fee
+ContactID-11,Savings Account,Personal Banking,High-Yield Savings Account,4321,2024-06-23 09:45:00,Los Angeles, CA,0,USD,High-Yield Savings Account Opening Deposit
+ContactID-12,Personal Loan,Loans,Home Improvement Loan,7890,2024-06-23 13:00:00,Chicago, IL,25000,USD,Home Improvement Loan Principal
+ContactID-12,Investment Account,Investment Products,Global Equity Fund,2468,2024-06-23 14:20:00,Chicago, IL,10000,USD,Global Equity Fund Initial Investment
+ContactID-12,Checking Account,Personal Banking,Premium Checking Account,1357,2024-06-23 10:00:00,Houston, TX,0,USD,Premium Checking Account Opening
+ContactID-13,Credit Card,Credit Products,Platinum Cashback Credit Card,9753,2024-06-23 12:45:00,Miami, FL,0,USD,Platinum Cashback Credit Card Application Fee
+ContactID-13,Savings Account,Personal Banking,Children's Savings Account,8642,2024-06-23 11:10:00,Seattle, WA,0,USD,Children's Savings Account Opening Deposit
+ContactID-13,Personal Loan,Loans,Auto Loan,7531,2024-06-23 10:30:00,Dallas, TX,30000,USD,Auto Loan Principal
+ContactID-14,Investment Account,Investment Products,US Treasury Bond Fund,1593,2024-06-23 13:50:00,Boston, MA,5000,USD,US Treasury Bond Fund Initial Investment
+ContactID-14,Checking Account,Personal Banking,Student Checking Account,6428,2024-06-23 14:05:00,Philadelphia, PA,0,USD,Student Checking Account Opening
+ContactID-14,Credit Card,Credit Products,Travel Rewards Credit Card,3579,2024-06-23 09:20:00,Phoenix, AZ,0,USD,Travel Rewards Credit Card Application Fee
+ContactID-15,Savings Account,Personal Banking,Retirement Savings Account,4682,2024-06-23 12:00:00,San Francisco, CA,0,USD,Retirement Savings Account Opening Deposit
+ContactID-15,Personal Loan,Loans,Debt Consolidation Loan,2467,2024-06-23 11:40:00,Denver, CO,20000,USD,Debt Consolidation Loan Principal
+ContactID-16,Investment Account,Investment Products,International Bond Fund,8910,2024-06-23 15:30:00,Atlanta, GA,15000,USD,International Bond Fund Initial Investment
+ContactID-16,Checking Account,Personal Banking,Joint Checking Account,5793,2024-06-23 10:55:00,Detroit, MI,0,USD,Joint Checking Account Opening
+ContactID-16,Credit Card,Credit Products,Secured Credit Card,2468,2024-06-23 14:15:00,Charlotte, NC,0,USD,Secured Credit Card Application Fee
+ContactID-11,Savings Account,Personal Banking,Emergency Savings Account,1357,2024-06-23 13:25:00,Portland, OR,0,USD,Emergency Savings Account Opening Deposit
+ContactID-12,Personal Loan,Loans,Personal Line of Credit,3579,2024-06-23 11:15:00,San Diego, CA,10000,USD,Personal Line of Credit Initial Draw
+ContactID-13,Investment Account,Investment Products,Emerging Markets Equity Fund,9753,2024-06-23 09:50:00,Minneapolis, MN,8000,USD,Emerging Markets Equity Fund Initial Investment
+ContactID-14,Checking Account,Personal Banking,Senior Checking Account,8642,2024-06-23 12:20:00,Washington, DC,0,USD,Senior Checking Account Opening
+ContactID-15,Credit Card,Credit Products,Student Credit Card,6428,2024-06-23 15:00:00,Orlando, FL,0,USD,Student Credit Card Application Fee

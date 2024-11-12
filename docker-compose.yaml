@@ -1,0 +1,17 @@
+version: '3'
+services:
+  app:
+#    build: 
+#      context: .
+#      dockerfile: Dockerfile
+    image: outboundacrcicd.azurecr.io/outbound/aillmprocessor:main
+    ports:
+      - "5100:5000"
+    environment:
+      - OPENAI_API_KEY=sk***ZYy
+      - DOCS_PATH=./docs
+      - MODEL_NAME=gpt-4-0125-preview
+      - SSL_CERT_FILE=certs.pem
+      - MONGODB_URI=mongodb://mongo:mongo@****:27017/mongodb_container?authSource=admin
+    volumes:
+      - ./docs:/docs

@@ -1,0 +1,15 @@
+Flask
+llama_index
+langchain
+openai
+streamlit
+pymongo
+pygments
+nltk
+streamlit-pills
+sentence-transformers
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+llama-index-readers-mongodb
+llama-index-vector-stores-mongodb
+markdown

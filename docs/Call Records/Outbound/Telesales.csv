@@ -1,0 +1,77 @@
+﻿ContactID,TimeStamp,CallDuration,CompletionCode,PacingType,ChannelType,AttemptedField,AttemptType
+ContactID-11,16/01/24 17:09,600,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-11,17/01/24 12:36,300,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-11,20/01/24 15:09,600,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-11,02/03/24 9:39,60,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-11,12/03/24 10:16,180,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-11,13/03/24 17:09,420,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-11,07/04/24 13:29,540,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-11,07/04/24 17:06,300,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-11,13/04/24 13:39,540,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-11,16/04/24 13:16,300,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-11,11/05/24 13:39,540,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-11,16/05/24 13:16,300,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-12,05/01/24 15:08,420,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-12,13/02/24 10:28,360,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-12,13/02/24 13:30,0,Ring No Answer,Preview,Voice,Phone 1,High Priority
+ContactID-12,15/02/24 9:57,60,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-12,17/02/24 10:39,240,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-12,04/03/24 14:29,540,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-12,16/03/24 16:27,60,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-12,10/04/24 16:59,60,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-12,12/04/24 16:55,600,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-12,13/04/24 9:19,180,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-12,10/05/24 16:59,60,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-12,12/05/24 16:55,600,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-12,13/05/24 9:19,180,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-13,19/01/24 15:28,360,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-13,02/02/24 12:50,120,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-13,05/02/24 13:57,180,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-13,04/03/24 17:59,0,Ring No Answer,Preview,Voice,Phone 1,High Priority
+ContactID-13,06/03/24 13:49,600,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-13,07/03/24 11:03,600,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-13,15/03/24 16:57,0,Ring No Answer,Preview,Voice,Phone 1,Regular
+ContactID-13,08/04/24 13:39,420,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-13,13/04/24 9:29,420,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-13,14/04/24 15:18,600,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-13,08/05/24 13:39,420,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-13,13/05/24 9:29,420,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-13,14/05/24 15:18,0,Ring No Answer,Preview,Voice,Phone 1,Regular
+ContactID-14,06/01/24 16:40,300,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-14,12/01/24 12:54,0,Ring No Answer,Preview,Voice,Phone 1,Regular
+ContactID-14,20/01/24 14:55,480,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-14,09/02/24 14:19,480,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-14,10/02/24 17:54,0,Ring No Answer,Preview,Voice,Phone 1,High Priority
+ContactID-14,18/02/24 16:06,600,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-14,07/03/24 12:29,360,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-14,09/03/24 15:49,600,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-14,07/04/24 11:09,480,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-14,14/04/24 9:07,180,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-14,08/05/24 13:39,420,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-14,13/05/24 9:29,0,Ring No Answer,Preview,Voice,Phone 1,Regular
+ContactID-14,14/05/24 15:18,420,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-15,03/01/24 12:26,600,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-15,17/01/24 16:24,120,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-15,18/01/24 14:16,420,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-15,19/01/24 10:50,540,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-15,07/02/24 14:28,120,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-15,19/02/24 15:15,60,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-15,01/03/24 13:19,240,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-15,03/04/24 16:30,240,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-15,08/04/24 16:46,300,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-15,12/04/24 10:04,600,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-15,03/05/24 16:30,240,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-15,08/05/24 16:46,300,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-15,12/05/24 10:04,600,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-16,17/01/24 16:24,120,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-16,18/01/24 14:16,420,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-16,19/01/24 10:50,540,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-16,07/02/24 14:28,120,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-16,19/02/24 15:14,60,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-16,01/03/24 13:19,240,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-16,03/04/24 16:30,240,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-16,08/04/24 16:46,300,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-16,12/04/24 10:04,600,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-16,03/05/24 16:30,240,Call Answered,Preview,Voice,Phone 1,Regular
+ContactID-16,08/05/24 16:46,300,Call Answered,Preview,Voice,Phone 1,High Priority
+ContactID-16,12/05/24 10:04,600,Call Answered,Preview,Voice,Phone 1,Regular

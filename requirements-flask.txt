@@ -1,0 +1,6 @@
+Flask
+llama_index
+openai
+pymongo
+markdown
+llama-index-vector-stores-mongodb

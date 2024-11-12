@@ -1,0 +1,21 @@
+ContactID,PhoneNumber,TimeStamp,CallDuration,CompletionCode
+ContactID-1,01/01/2024 15:28,360,Call Answered
+ContactID-1,01/02/2024 13:42,600,Call Answered
+ContactID-1,01/02/2024 17:59,0,Ring No Answer
+ContactID-1,01/03/2024 13:57,180,Call Answered
+ContactID-1,01/04/2024 09:22,420,Call Answered
+ContactID-1,01/04/2024 11:03,600,Call Answered
+ContactID-1,01/04/2024 12:50,120,Call Answered
+ContactID-1,01/04/2024 13:39,420,Call Answered
+ContactID-1,01/04/2024 15:18,600,Call Answered
+ContactID-1,01/04/2024 16:57,0,Ring No Answer
+ContactID-9084,01/01/2024 12:54,0,Ring No Answer
+ContactID-9084,01/01/2024 14:55,480,Call Answered
+ContactID-9084,01/03/2024 09:07,180,Call Answered
+ContactID-9084,01/03/2024 12:22,360,Call Answered
+ContactID-9084,01/03/2024 14:12,480,Call Answered
+ContactID-9084,01/03/2024 15:41,600,Call Answered
+ContactID-9084,01/03/2024 17:54,0,Ring No Answer
+ContactID-9084,01/04/2024 11:09,480,Call Answered
+ContactID-9084,01/04/2024 16:06,600,Call Answered
+ContactID-9084,01/04/2024 16:40,300,Call Answered

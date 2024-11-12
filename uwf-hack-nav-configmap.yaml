@@ -1,0 +1,28 @@
+# K8s Config Map definition for loading tile In AXP NGM Service.  
+# Confluence link which helps to write this deefinition . NGM kubernetes Watcher service will pick this definition up and 
+# create the tile once this config map gets deployed. The roles are the same that were used for the OD Workflow tile
+# https://confluence.forge.avaya.com/pages/viewpage.action?pageId=168544978
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: uwf-obaas-hack-nav
+data:
+  obaas_application.json: |-
+    {
+      "payloadType": "application",
+      "schemaVersion": "0.0.1",
+      "payload": {
+        "name": "obaas-outbound-hackathon",
+        "displayName": "Outbound Prompts",
+        "iconUri": "neo-icon-voice-outbound",
+        "description": "Create Prompts and Configurations for Outbound Customers",
+        "externalUrl": "https://hackathon-avaya-obaas.streamlit.app/?api_key=aHR0cHM6Ly9oYWNrYXRob24tYXZheWEtb2JhYXMuc3RyZWFtbGl0LmFwcC8=&phone_number=4&campaign_name=FSI&show_sidebar=True",
+        "roles": [
+          "uwf:access",
+          "Administrator",
+          "System Administrator",
+          "Business Analyst",
+          "Contact Center Manager"
+        ]
+      }
+    }
