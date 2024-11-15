@@ -2,7 +2,3 @@ CampaignId,CampaignName,Type,StrategyName,ContactListName,ContactListId,Descript
 1,Collections,Finite,PreviewWithCancel,Collections,1,Collections Campaign
 41,Credit Card Sales,Finite,NoTimedPreview,Credit Card Sales,51,Campaign to sell credit cards
 42,Savings Account,Finite,PreviewWithCancel,Savings Account,45,Campaign to sell savings account
-44,Wealth Wellness,Finite,PreviewWithCancel,Wealth Wellness,50,Campaign to increase wealth of customers
-2,FSI,Finite,FSI,Collection,2,Campaign to recover outstanding dues for card payments
-3,Telco,Finite,PreviewWithCancel,FSI,3,Telecommunication Campaign
-4,TeleSales,Finite,NoTimedPreview,TeleSales,4,Telephonic Sales Campaign
