@@ -191,8 +191,7 @@ def createCampaignIdMaps():
 def createSideBar():
     with st.sidebar:
         models = {
-            "o1-mini": "🌱",
-            "o1-preview": "🤖",
+            "o1-preview1": "🤖",
             "gpt-4o-mini": "🌱",
             "gpt-4-0125-preview": "🤖",
             "gpt-4-turbo-preview": "🚀",
