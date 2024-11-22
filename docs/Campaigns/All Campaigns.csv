@@ -1,4 +1,4 @@
 CampaignId,CampaignName,Type,StrategyName,ContactListName,ContactListId,Description
-1,Collections,Finite,PreviewWithCancel,Collections,1,Collections Campaign
+1,Wealth Wellness,Finite,PreviewWithCancel,Collections,1,Wellness Campaign
 41,Credit Card Sales,Finite,NoTimedPreview,Credit Card Sales,51,Campaign to sell credit cards
 42,Savings Account,Finite,PreviewWithCancel,Savings Account,45,Campaign to sell savings account
