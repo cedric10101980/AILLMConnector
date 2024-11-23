@@ -204,7 +204,7 @@ def createSideBar():
 
 
         st.session_state['selected_model'] = pills(
-            "Select the Open AI Model",
+            "Select the Open AI Model to use for Querying",
             model_names, icons
         )
 
