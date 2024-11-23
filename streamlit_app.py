@@ -211,7 +211,7 @@ def createSideBar():
         if not st.session_state.app_key:
             st.session_state.app_key = st.text_input('Enter your application key:', get_app_key(time.time()).get('api_key'), type="password")
 
-        st.session_state.use_context = st.checkbox('Use Context', True)
+        st.session_state.use_context = st.checkbox('Use Context for Quering', True)
 
         if st.session_state.use_context:
             st.session_state.phone_number = st.text_input('Contact Number :', get_app_key(time.time()).get('phone_number'))
