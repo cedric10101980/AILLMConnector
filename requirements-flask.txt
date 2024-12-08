@@ -4,3 +4,4 @@ openai
 pymongo
 markdown
 llama-index-vector-stores-mongodb
+faker

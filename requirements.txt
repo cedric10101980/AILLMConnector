@@ -13,3 +13,4 @@ llama-index-embeddings-instructor
 llama-index-readers-mongodb
 llama-index-vector-stores-mongodb
 markdown
+faker

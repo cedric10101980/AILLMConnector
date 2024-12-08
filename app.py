@@ -4,11 +4,15 @@ import os
 import uuid
 from logic import run_asyncio_coroutine, process_file, query_logic, chat_logic, process_path, send_html_email_gmail, query_logic_from_prompt
 
+from faker import Faker
+
 import logging
 import sys
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
+
+fake = Faker()
 
 app = Flask(__name__, template_folder='templates/')
 
@@ -73,6 +77,10 @@ def querypromt():
     if not model_name:
         model_name = DEFAULT_MODEL_NAME
 
+    if os.environ.get('MOCK_OPENAI') == "true":
+        # Return a mock response
+        return fake.text(max_nb_chars=200), 200
+    
     result = run_asyncio_coroutine(query_logic_from_prompt(prompt, campaignName, contactId, model_name))
 
     return result, 200
@@ -86,6 +94,10 @@ def query():
     if not model_name:
         model_name = DEFAULT_MODEL_NAME
 
+    if os.environ.get('MOCK_OPENAI') == "true":
+        # Return a mock response
+        return fake.text(max_nb_chars=200), 200
+
     result = run_asyncio_coroutine(query_logic(query, model_name))
 
     return result, 200
@@ -98,6 +110,10 @@ def chat():
     model_name = data.get('model')
     if not model_name:
         model_name = DEFAULT_MODEL_NAME
+
+    if os.environ.get('MOCK_OPENAI') == "true":
+        # Return a mock response
+        return fake.text(max_nb_chars=200), 200
 
     result = run_asyncio_coroutine(chat_logic(query, model_name))
 

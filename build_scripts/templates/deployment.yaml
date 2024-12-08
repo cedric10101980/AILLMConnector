@@ -43,9 +43,13 @@ spec:
             - name: MODEL_NAME
               value: gpt-4-0125-preview
             - name: PROCESS_DOCS
-              value: "false"
+              value: "true"
             - name: STORE_INDEX
+              value: "true"
+            - name: MOCK_OPENAI
               value: "false"
+            - name: SSL_CERT_FILE
+              value: ./certs.pem
             - name: OPENAI_API_KEY
               valueFrom:
                 secretKeyRef:

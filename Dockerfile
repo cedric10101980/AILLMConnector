@@ -54,7 +54,6 @@ RUN pip3 install --find-links=/wheels -r requirements-flask.txt
 # Copy the rest of the application
 COPY . .
 
-
 # Declare the environment variable
 ARG OPENAI_API_KEY
 ENV OPENAI_API_KEY=$OPENAI_API_KEY

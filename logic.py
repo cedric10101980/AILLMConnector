@@ -375,7 +375,7 @@ async def query_logic_from_prompt(prompt, campaignName, contactId, model_name=DE
     print("Prompt received  from MongoDB: ", query)
 
     if not query:
-        return "No prompt found for the given name. Please check the prompt name and try again."
+        return "No prompt found for the given name.  Please check the prompt name and try again."
 
     response = query_engine.query(query)
 
@@ -405,8 +405,6 @@ async def query_logic(query, model_name=DEFAULT_MODEL_NAME):
         index = load_index_from_storage(storage_context)
     else:
         index = load_index_from_DB()
-        
-    index = load_index_from_storage(storage_context)
 
     query_engine = index.as_query_engine(llm=OpenAI(temperature=0, model=model_name))
 
